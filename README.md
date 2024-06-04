@@ -1,5 +1,10 @@
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 
+已编译未测试
+小米mini R1C型号，原是要找有zerotier的固件，但没找到，于是试着自己编译一下。
+
+等测试了再修改描述
+
 # Actions-OpenWrt
 
 [![LICENSE](https://img.shields.io/github/license/mashape/apistatus.svg?style=flat-square&label=LICENSE)](https://github.com/P3TERX/Actions-OpenWrt/blob/master/LICENSE)
